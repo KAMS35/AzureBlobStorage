@@ -1,6 +1,7 @@
 # A tutorial for Azure Blob Storage
 
-* Creating an Azure Blob Storage account (non-classic version) 
+Prompt 1 will contain the following elements:
+* Creating an Azure Blob Storage account 
 * Creating a container in that storage account 
 * Seeing what containers exist within the storage account
 * Uploading data to that container 
@@ -9,7 +10,6 @@
 * Deleting the container 
 * Deleting the storage account 
 
-Using one of the following technologies: Eclipse and Java Scala and IntelliJ Visual Studio and C# (either command line app or form builder) Azure PowerShell and Windows PowerShell ISE Azure CLI
 
 ## 1] Creating a storage account
 1. Sign into the Azure portal to view the dashboard.
