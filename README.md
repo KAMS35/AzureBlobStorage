@@ -1,6 +1,6 @@
 # A tutorial for Azure Blob Storage
 
-Prompt 1 will contain the following elements:
+This is Prompt 1 and will contain the following elements:
 * Creating an Azure Blob Storage account 
 * Creating a container in that storage account 
 * Seeing what containers exist within the storage account
