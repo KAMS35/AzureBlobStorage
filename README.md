@@ -16,7 +16,7 @@ This is Prompt 1 and will contain the following elements:
 
 2. Under the resource section, select the "Storage Accounts" and click on "+Add".  ![Add New Storage Account] (https://github.com/KAMS35/AzureBlobStorage/blob/master/screenshots/1.%20adding%20a%20new%20storage%20account.png)
 
-3. Enter in the required details for the storage account as recommended. Here, the deployment model is set to "resource  Manager" and the account kind is choosen as "Blob storage".  ![Details for the storage account](https://github.com/KAMS35/AzureBlobStorage/blob/master/screenshots/2.%20storage%20account%20creation.png)
+3. Enter in the required details for the storage account as recommended. Here, the deployment model is set to "resource  Manager" and the account kind is choosen as "Blob storage". The Hot and Cold access determines the data storage cost and the access cost. Codld access provides lower data storage cost while the hot access provides lower data access cost. We simply choose "Hot Access" by default.  ![Details for the storage account](https://github.com/KAMS35/AzureBlobStorage/blob/master/screenshots/2.%20storage%20account%20creation.png)
 
 4. After all the information is entered correctly, click "Create". You may choose the option "Pin to dashboard" for ease of access. The storage account is now created. 
 
