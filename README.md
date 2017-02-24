@@ -43,5 +43,5 @@ Since this is a blob, several file extensions are accepted.
 To delete a container, click on the desired container, choose "Delete Container", and confirm "Yes". ![deleting the container](https://raw.githubusercontent.com/KAMS35/AzureBlobStorage/master/screenshots/8..%20deleting%20the%20container.png)
 
 ## 6] Deleting the storage account
-Choose the storage account you wish to delete, click on the Trash icon. Type in the name of the storage account in the box and click on "Delete" button.
+Choose the storage account you wish to delete, click on "Delete". Type in the name of the storage account in the box and click on "Delete" button on the bottom.
 ![deleting the storage account](https://raw.githubusercontent.com/KAMS35/AzureBlobStorage/master/screenshots/9.%20deleting%20the%20storage%20account.png)
